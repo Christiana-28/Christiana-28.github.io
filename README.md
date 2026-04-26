@@ -38,7 +38,7 @@ Aplicación en Java para analizar temperaturas mensuales.
 🔗 Repositorio: https://github.com/Christiana-28/Java-Temperature-Analyzer  
 
 ## Portfolio online
-https://github.com/Christiana-28/Christiana-28.github.io.git
+https://Christiana-28.github.io
 
 ## Autora
 Christiana Ogunjobi
